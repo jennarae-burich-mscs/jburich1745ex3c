@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "jburich1745ex3c", "jburich1
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "1859"
+		SlnRelativePath = "jburich1745ex3c\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
